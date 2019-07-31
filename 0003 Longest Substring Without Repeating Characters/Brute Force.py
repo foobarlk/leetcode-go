@@ -1,5 +1,5 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+    def lengthOfLongestSubstring(self, s: height) -> int:
         def all_unique(s, start, end):
             cs = set()
             for i in range(start, end):
